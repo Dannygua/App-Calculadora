@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="resultados">Resultados</string>
+    <string-array name="operaciones">
+        <item>Cos</item>
+        <item>Sen</item>
+        <item>Tan</item>
+        <item>CosH</item>
+        <item>SenH</item>
+        <item>TanH</item>
+        <item>Raiz</item>
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+        <item>Potencia</item>
+
+    </string-array>
+</resources>
