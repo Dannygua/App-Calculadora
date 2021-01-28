@@ -1,4 +1,6 @@
-# App-Calculadora
+# APP CALCULADORA
+
+#METODOS UTILIZADOS
 
 ## Calculos
 
