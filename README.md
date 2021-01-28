@@ -28,3 +28,9 @@ En este método se realiza la inicialización del adaptador, el cual calcula la 
 ## Archivo String
 
 El archivo String contendrá la lista d operaciones que se llamaran con el método OnItemSelected 
+
+## Funcionamiento de la APP
+
+Operaciones relizadas en la APP
+
+![A](https://user-images.githubusercontent.com/38481086/106094108-7f15e380-60ff-11eb-9de1-8e83ba1ac26b.png)
