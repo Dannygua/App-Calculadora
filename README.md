@@ -33,9 +33,15 @@ El archivo String contendrá la lista d operaciones que se llamaran con el méto
 
 Operaciones relizadas en la APP
 
+Suma
+
 ![A](https://user-images.githubusercontent.com/38481086/106094108-7f15e380-60ff-11eb-9de1-8e83ba1ac26b.png)
+
+Potencia
 
 ![B](https://user-images.githubusercontent.com/38481086/106094316-cb612380-60ff-11eb-97ea-980eb17c4aa6.png)
 
+Raiz
 
+![C](https://user-images.githubusercontent.com/38481086/106094361-db790300-60ff-11eb-84f2-dfd8f0c33a8d.png)
 
